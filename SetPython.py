@@ -20,3 +20,6 @@ if num > 1:
 # or equal to 1, it is not prime
 else:
    print(num,"is not a prime number")
+
+#this is master branch code 1
+#this is master branch code 2
