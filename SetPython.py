@@ -21,5 +21,12 @@ if num > 1:
 else:
    print(num,"is not a prime number")
 
+<<<<<<< HEAD
 #this is master branch code 1
 #this is master branch code 2
+=======
+
+
+
+#this is thirsty branch
+>>>>>>> thirsty
